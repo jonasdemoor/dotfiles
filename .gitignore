@@ -1,0 +1,4 @@
+# Ignore nvim files except for the packages dirs
+nvim/.local/share/nvim/*
+!nvim/.local/share/nvim/site
+!nvim/.local/share/nvim/site/*

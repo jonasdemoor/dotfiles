@@ -1,0 +1,30 @@
+[submodule "nvim/colors/dracula"]
+	path = nvim/.local/share/nvim/site/pack/colors/opt/dracula
+	url = https://github.com/dracula/vim.git
+[submodule "nvim/lang/ansible-vim"]
+	path = nvim/.local/share/nvim/site/pack/lang/start/ansible-vim
+	url = https://github.com/pearofducks/ansible-vim.git
+[submodule "nvim/lang/salt-vim"]
+	path = nvim/.local/share/nvim/site/pack/lang/start/salt-vim
+	url = https://github.com/saltstack/salt-vim.git
+[submodule "nvim/lang/vim-fish"]
+	path = nvim/.local/share/nvim/site/pack/lang/start/vim-fish
+	url = https://github.com/dag/vim-fish.git
+[submodule "nvim/lang/vim-puppet"]
+	path = nvim/.local/share/nvim/site/pack/lang/start/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
+[submodule "nvim/plugins/ale"]
+	path = nvim/.local/share/nvim/site/pack/plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "nvim/plugins/fzf"]
+	path = nvim/.local/share/nvim/site/pack/plugins/start/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "nvim/plugins/vim-dirvish"]
+	path = nvim/.local/share/nvim/site/pack/plugins/start/vim-dirvish
+	url = https://github.com/justinmk/vim-dirvish.git
+[submodule "nvim/plugins/vim-surround"]
+	path = nvim/.local/share/nvim/site/pack/plugins/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "nvim/plugins/fzf.vim"]
+	path = nvim/.local/share/nvim/site/pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git

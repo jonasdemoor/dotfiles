@@ -1,0 +1,4 @@
+[alias]
+  s = status --short
+  c = commit --verbose
+  p = push
