@@ -17,6 +17,7 @@ alias e="edit"
 alias g="git"
 alias vi="nvim"
 alias vim="nvim"
+alias cdr="cd (git rev-parse --show-toplevel)"
 
 # Run on startup
 if status --is-interactive
