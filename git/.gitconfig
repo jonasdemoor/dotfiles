@@ -2,3 +2,5 @@
   s = status --short
   c = commit --verbose
   p = push
+[pull]
+	rebase = true
