@@ -60,7 +60,7 @@ packadd! dracula
 colorscheme dracula
 
 " Set a marker at 80 chars
-highlight ColorColumn ctermbg=red
+highlight ColorColumn ctermbg=red guibg=red
 set colorcolumn=80
 
 " Highlight trailing whitespace
